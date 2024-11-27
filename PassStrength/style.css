@@ -33,7 +33,10 @@
     outline: none;
     color: #fff;
     background: transparent;
+}
 
+#password::-ms-reveal{
+    display: none;
 }
 
 button{
